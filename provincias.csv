@@ -1,0 +1,25 @@
+letra	ISO3166-2	Nombre	freebase id	dbpedia
+A	AR-A	SALTA	/en/salta_province	http://dbpedia.org/resource/Salta
+B	AR-B	BUENOS AIRES	/en/buenos_aires_province	http://dbpedia.org/resource/Buenos_Aires_Province
+C	AR-C	CIUDAD AUTONOMA BUENOS AIRES	/en/buenos_aires	http://dbpedia.org/resource/Buenos_Aires
+D	AR-D	SAN LUIS	/en/san_luis_province	http://dbpedia.org/resource/San_Luis_Province
+E	AR-E	ENTRE RÍOS	/en/entre_rios_province	http://dbpedia.org/resource/Entre_R%C3%ADos_Province
+F	AR-F	LA RIOJA	/en/la_rioja_province	http://dbpedia.org/resource/La_Rioja_Province,_Argentina
+G	AR-G	SANTIAGO DEL ESTERO	/en/santiago_del_estero_province	http://dbpedia.org/resource/Santiago_del_Estero_Province
+H	AR-H	CHACO	/en/chaco_province	http://dbpedia.org/resource/Chaco_Province
+J	AR-J	SAN JUAN	/en/san_juan_province	http://dbpedia.org/resource/San_Juan_Province,_Argentina
+K	AR-K	CATAMARCA	/en/catamarca_province	http://dbpedia.org/resource/Catamarca_Province
+L	AR-L	LA PAMPA	/en/la_pampa_province	http://dbpedia.org/resource/La_Pampa_Province
+M	AR-M	MENDOZA	/en/mendoza_province	http://dbpedia.org/resource/Mendoza_Province
+N	AR-N	MISIONES	/en/misiones_province	http://dbpedia.org/resource/Misiones_Province
+P	AR-P	FORMOSA	/en/formosa_province	http://dbpedia.org/resource/Formosa_Province
+Q	AR-Q	NEUQUÉN	/en/neuquen_province	http://dbpedia.org/resource/Neuqu%C3%A9n_Province
+R	AR-R	RÍO NEGRO	/en/rio_negro_province	http://dbpedia.org/resource/R%C3%ADo_Negro_Province
+S	AR-S	SANTA FE	/en/santa_fe_province	http://dbpedia.org/resource/Santa_Fe_Province
+T	AR-T	TUCUMÁN	/en/tucuman_province	http://dbpedia.org/resource/Tucum%C3%A1n_Province
+U	AR-U	CHUBUT	/en/chubut_province	http://dbpedia.org/resource/Chubut_Province
+V	AR-V	TIERRA DEL FUEGO	/en/tierra_del_fuego_province	http://dbpedia.org/resource/Tierra_del_Fuego_Province,_Argentina
+W	AR-W	CORRIENTES	/en/corrientes_province	http://dbpedia.org/resource/Corrientes_Province
+X	AR-X	CÓRDOBA	/en/cordoba_province	http://dbpedia.org/resource/C%C3%B3rdoba_Province,_Argentina
+Y	AR-Y	JUJUY	/en/jujuy_province	http://dbpedia.org/resource/Jujuy_Province
+Z	AR-Z	SANTA CRUZ	/en/santa_cruz_province	http://dbpedia.org/resource/Santa_Cruz_Province,_Argentina
